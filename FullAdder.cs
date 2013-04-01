@@ -1,0 +1,17 @@
+Board,4,5
+Switch,0
+Switch,1
+Switch,2
+Or,1,0,0,1
+And,1,1,0,1
+Buffer,1,2,2
+Xor,1,3,0,1
+And,2,0,0,2
+Buffer,2,1,1
+Xor,2,2,2,3
+Nor,3,0,0,1
+Buffer,3,1,2
+Not,4,0,0
+Buffer,4,1,1
+Led,0
+Led,1
