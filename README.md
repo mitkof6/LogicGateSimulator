@@ -1,11 +1,12 @@
 Logic Gate Simulator
 ====================
 
+Logic gate circuit construction and simulation.
+
 Author: Jim Stanev
 
 Email: jimstanev@gmail.com
 
-Logic gate circuit construction and simulation.
 
 What It Can Do
 ==============
