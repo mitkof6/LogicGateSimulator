@@ -1,7 +1,7 @@
 Logic Gate Simulator
 ====================
 
-Logic gate circuit construction and simulation.
+Logic gate circuit construction and simulation with gui
 
 Author: Jim Stanev
 
@@ -23,3 +23,12 @@ Description
 Language: Java
 
 Dependences: none
+
+Run
+===
+
+To run just donwload LogicGateSimulator.jar and run from terminal 
+
+    java -jar LogicGateSimulator.jar
+    
+or double click. Must have jre (java runtime enviroment) installed.
