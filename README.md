@@ -1,7 +1,8 @@
 Logic Gate Simulator
 ====================
 
-Author: Jim Stanev\n
+Author: Jim Stanev
+
 Email: jimstanev@gmail.com
 
 Logic gate circuit construction and simulation.
